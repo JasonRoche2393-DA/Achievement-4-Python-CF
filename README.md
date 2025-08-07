@@ -27,11 +27,11 @@ The code for this project was written in Python and executed in Jupyter notebook
 - Scipy
 
 # **Overview of project folders:**
-- 01. Project Management: Containing the project brief, goals and related documentation.
-- 02. Data: Contains 'Original Data' (The original datasets) and 'Prepared Data' (Data which has been cleaned in preparation for analysis)
-- 03. Scripts: The Python code that was used for analysis, executed in Jupyter notebooks.
-- 04. Analysis: Contains 'Visualisations' subfolder which holds the visualisations used throughout analysis and the insights generating process.
-- 05. Sent to Client: Contains an Excel presentation with the final project.
+- 01 - Project Management: Containing the project brief, goals and related documentation.
+- 02 - Data: Contains 'Original Data' (The original datasets) and 'Prepared Data' (Data which has been cleaned in preparation for analysis)
+- 03 - Scripts: The Python code that was used for analysis, executed in Jupyter notebooks.
+- 04 - Analysis: Contains 'Visualisations' subfolder which holds the visualisations used throughout analysis and the insights generating process.
+- 05 - Sent to Client: Contains an Excel presentation with the final project.
 
 # **Visualisations:**
 
