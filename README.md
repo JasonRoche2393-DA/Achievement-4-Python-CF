@@ -33,5 +33,3 @@ The code for this project was written in Python and executed in Jupyter notebook
 - 04 - **Analysis:** Contains 'Visualisations' subfolder which holds the visualisations used throughout analysis and the insights generating process.
 - 05 - **Sent to Client:** Contains an Excel presentation with the final project.
 
-## **Visualisations:**
-
