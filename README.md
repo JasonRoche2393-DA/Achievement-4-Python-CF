@@ -3,7 +3,7 @@ Here you will find the project work for Achievement 4: Instacart Grocery Basket 
 - **DISCLAIMER:** Whilst Instacart is an existing company that has made their data available to review online, the data used in this project for 'customers' is fictitious and used solely for the purtpose of the Data Analytics Immersion program offered by CareerFoundry.
 
 ## **Introduction:**
-This repository, which showcases a comprehensive exploratory analysis of Instacart’s sales data. The primary objective is to uncover meaningful customer purchasing behaviors and translate them into actionable insights for targeted marketing. Acting as an analyst for Instacart, this project responds to key business questions posed by the sales and marketing teams—such as identifying peak shopping times, analyzing spending habits, and evaluating product popularity across departments.
+This repository showcases a comprehensive exploratory analysis of Instacart’s sales data. The primary objective is to uncover meaningful customer purchasing behaviors and translate them into actionable insights for targeted marketing. Acting as an analyst for Instacart, this project responds to key business questions posed by the sales and marketing teams—such as identifying peak shopping times, analyzing spending habits, and evaluating product popularity across departments.
 
 ## **Key Questions and Objectives:**
 - What are the busiest and least busy times of the week?
