@@ -1,6 +1,6 @@
 # **Achievement-4-Python-CF:**
 Here you will find the project work for Achievement 4: Instacart Grocery Basket Analysis.
-- **DISCLAIMER:** Whilst Instacart is an existing company that has made their data available to review online, the data used in this project for 'customers' is fictitious and used solely for the purtpose of the Data Analytics Immersion program offered by CareerFoundry.
+- **DISCLAIMER:** Whilst Instacart is an existing company that has made their data available to review online, the data used in this project for 'customers' is fictitious and used solely for the purpose of the Data Analytics Immersion program offered by CareerFoundry.
 
 ## **Introduction:**
 This repository showcases a comprehensive exploratory analysis of Instacart’s sales data. The primary objective is to uncover meaningful customer purchasing behaviors and translate them into actionable insights for targeted marketing. Acting as an analyst for Instacart, this project responds to key business questions posed by the sales and marketing teams—such as identifying peak shopping times, analyzing spending habits, and evaluating product popularity across departments.
